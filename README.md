@@ -13,7 +13,7 @@ As the healthcare industry continues to embrace the digital era and advance rem
 Pet’s health monitoring system is a belt which can be used to check all the vital parameters of their pets in real-time. Such belts can measure heart rate, temperature etc. By using ECG sensor, we can measure heart rate and with temperature sensor we can measure the pet’s body temperature. If any serious changes occur in any parameters that can be taken as signs of illness, it will send an alert to a pet owner. Physical activity is very important for pets. Modern applications can analyse walking distance, time of activity per day etc. We can use ADXL accelerometer to count the steps during walking. If a pet is not active enough during the day, an owner will be notified. To control all the sensors, we use NodeMCU8266 microcontroller.
 ## Images of the Bot
 
-<add your image>
+![image](https://github.com/Un3thical/Pet_Health_Monitoring/assets/139053193/ce62f153-8683-4390-b365-88744a415c58)
 
 ## Working Video
 
