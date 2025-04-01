@@ -1,6 +1,6 @@
 # Pet_Health_Monitoring
 
-This is the project titled *‘Pet Health Monitoring’* by *Tanmay Sugandhi, Rohit Chand, Manichand, Chandrashekar, Jerry K. Paul*. 
+This is the project titled *‘Pet Health Monitoring’* by *Tanmay Sugandhi, Rohit Chand R N, Manichand, Chandrashekar, Jerry K. Paul*. 
 This is a record of the project work carried out by us, during the year *2022-2023* as part of *INDUCTION* under the guidance and supervision of *Mr D.P. Naga Ajay Kumar & Ms P. Tapaswini* (Technical Heads) and *Mr T. Bharat Kumar* (The President of THE ROBOTICS CLUB)
 
 ## Abstract
